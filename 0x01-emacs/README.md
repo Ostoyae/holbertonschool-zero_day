@@ -1,3 +1,1 @@
-first task for emacs.
-
-how we open a file with emacs.
+this project we learn to use basic command for emacs.
